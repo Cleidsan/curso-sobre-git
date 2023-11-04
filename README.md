@@ -1,4 +1,4 @@
 # curso-sobre-git/Versonamento
 
 
-# Salvando modificaçoes no git
+# Salvando Alteraçoes no git
